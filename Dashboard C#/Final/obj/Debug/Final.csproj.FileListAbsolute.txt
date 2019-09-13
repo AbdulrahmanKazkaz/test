@@ -1,0 +1,29 @@
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\bin\Debug\Final.exe.config
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\bin\Debug\Final.exe
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\bin\Debug\Final.pdb
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.frmLogin.resources
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.Properties.Resources.resources
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.exe
+c:\users\abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.pdb
+C:\Users\Abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.frmSendEmail.resources
+C:\Users\Abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.UC.Camera.resources
+C:\Users\Abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.UC.Dashboard.resources
+C:\Users\Abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.frmDashboard.resources
+C:\Users\Abdulrahman\documents\visual studio 2017\Projects\Final\Final\obj\Debug\Final.UC.editUser.resources
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\bin\Debug\Final.exe.config
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\bin\Debug\Final.exe
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\bin\Debug\Final.pdb
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.frmLogin.resources
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.frmSendEmail.resources
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.frmDashboard.resources
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.Properties.Resources.resources
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.UC.Camera.resources
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.UC.Dashboard.resources
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.UC.editUser.resources
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.exe
+E:\مشروع تخرج\برنامج دارة الحماية  + كود الاردوينو\Final\Final\obj\Debug\Final.pdb
